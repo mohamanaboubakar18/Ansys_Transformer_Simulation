@@ -1,0 +1,7 @@
+$begin 'ValidationCache'
+	$begin 'OneValidationResult'
+		Variation='Lcore_x=\'1.1000000000000001in\' Lcore_y=\'0.40000000000000002in\' Lcore_z=\'1in\' Lt_x=\'0.20000000000000001mm\' Ltx=\'1in\' Lty=\'2in\' Ltz=\'2in\' Vm=\'120V\''
+		Status=true
+		FileName='VI5B779900179341835317.tmp'
+	$end 'OneValidationResult'
+$end 'ValidationCache'

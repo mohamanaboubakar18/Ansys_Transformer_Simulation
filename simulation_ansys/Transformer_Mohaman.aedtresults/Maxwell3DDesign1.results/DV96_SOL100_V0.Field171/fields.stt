@@ -1,0 +1,16 @@
+minimum_dimension 1.82172844217379e-10
+residual -1.00000000000000e+00
+percent_refinement 3.00000000000000e+01
+skip_mesh_check N
+nonlinear_residual 1.00000000000000e-04
+smooth_bh_curve N
+nonlinear_iteration_number N
+deformation_dependent_object 0
+shape_order 0
+mult no
+sing 6.00000000000000e+01
+adapt_data 1 6.00000000000000e+01 0
+freq_type Hz
+adapt_choice 1
+SYMMETRY_MULTIPLIER 1.00000000000000e+00
+end
